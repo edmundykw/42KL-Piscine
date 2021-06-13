@@ -1,0 +1,5 @@
+Credentials cache: API:7EFC67BA-F7DF-468E-A7D0-1EBC930A4CD9
+        Principal: ekeen-wy@42KL.EDU.MY
+
+  Issued                Expires             Flags    Principal
+May 20 12:59:13 2021  May 20 22:59:06 2021  FPIA   krbtgt/42KL.EDU.MY@42KL.EDU.MY
